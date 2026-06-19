@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "name": "openskycam",
-    "app-name": "openskycam",
+    "app-name": "OpenSkyCam",
     "package-name": "openskycam",
     "project-type": "webview",
     "project-name": "openskycam",
