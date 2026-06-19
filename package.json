@@ -1,0 +1,27 @@
+{
+    "version": "1.0.0",
+    "name": "openskycam",
+    "app-name": "openskycam",
+    "package-name": "openskycam",
+    "project-type": "webview",
+    "project-name": "openskycam",
+    "icon": "./assets/icon/icon.png",
+    "dist-path": "./dist",
+    "permission": [
+        "android.permission.INTERNET"
+    ],
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start:dev": "node .",
+        "build": "androidjs build"
+    },
+    "author": "space2pacman",
+    "license": "ISC",
+    "dependencies": {
+        "androidjs": "^2.0.2"
+    },
+    "theme": {
+        "fullScreen": true
+    }
+}
